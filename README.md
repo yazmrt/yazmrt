@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yağız Mart
-- 👀 I’m interested in digital design and embedded systems.
-- 🌱 I’m currently learning Verilog
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yagzmart@gmail.com
 
