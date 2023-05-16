@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Yağız Mart
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Digital Design and Computer Architecture
 - 📫 How to reach me yagzmart@gmail.com
 
 <!---
