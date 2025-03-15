@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yağız Mart
-- 👀 I’m interested in Digital Design, Computer Architecture and digital integrated circuits.
 - 📫 How to reach me yagzmart@gmail.com
 
 <!---
